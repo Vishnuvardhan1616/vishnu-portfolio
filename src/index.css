@@ -1,0 +1,10 @@
+body {
+  background: linear-gradient(135deg, #ff9a9e, #fad0c4, #ffdde1);
+  background-size: cover;
+  min-height: 100vh;
+  font-family: 'Arial', sans-serif;
+  color: #333;
+  margin: 0;
+  padding: 0;
+  transition: background 0.5s ease-in-out;
+}

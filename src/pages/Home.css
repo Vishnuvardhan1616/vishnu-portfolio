@@ -1,0 +1,11 @@
+.home-container {
+    background: linear-gradient(135deg, #ab7eff, #ff758c, #958bff);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    text-align: center;
+  }
+  

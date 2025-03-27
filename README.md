@@ -25,18 +25,6 @@ A personal portfolio website built to showcase projects, skills, and experiences
    cd vishnu-portfolio
 Install dependencies:
 
-vishnu-portfolio/
-├── public/                   # Static assets (HTML, images, etc.)
-├── src/
-│   ├── components/           # Reusable React components (Header, Footer, ProjectCard, etc.)
-│   ├── pages/                # Page-level components (Home, About, Projects, Contact)
-│   ├── App.js                # Main application component
-│   ├── index.js              # Application entry point
-│   └── styles/               # Global styles and theme files
-├── .gitignore
-├── package.json
-└── README.md                 # Project README
-
 Contributing
 Contributions are welcome! If you have suggestions or improvements, feel free to fork the repository and submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
 

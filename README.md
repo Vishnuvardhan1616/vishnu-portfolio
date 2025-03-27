@@ -25,22 +25,6 @@ A personal portfolio website built to showcase projects, skills, and experiences
    cd vishnu-portfolio
 Install dependencies:
 
-sh
-Copy
-Edit
-npm install
-Start the development server:
-
-sh
-Copy
-Edit
-npm start
-The application will run on http://localhost:3000.
-
-Project Structure
-php
-Copy
-Edit
 vishnu-portfolio/
 ├── public/                   # Static assets (HTML, images, etc.)
 ├── src/
@@ -52,6 +36,7 @@ vishnu-portfolio/
 ├── .gitignore
 ├── package.json
 └── README.md                 # Project README
+
 Contributing
 Contributions are welcome! If you have suggestions or improvements, feel free to fork the repository and submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
 

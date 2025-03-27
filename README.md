@@ -25,8 +25,9 @@ A personal portfolio website built to showcase projects, skills, and experiences
    cd vishnu-portfolio
 Install dependencies:
 
+## contributions
 Contributing
 Contributions are welcome! If you have suggestions or improvements, feel free to fork the repository and submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
 
-License
+## License
 This project is open-source and available under the MIT License.
